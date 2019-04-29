@@ -1,0 +1,57 @@
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.xml
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmcustomer.resources
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmproduct.resources
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmorder.resources
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmmenu.resources
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmpriceinfo.resources
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.Resources.resources
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.vbproj.GenerateResource.Cache
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.exe
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.xml
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.pdb
+G:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmhelp.resources
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.exe
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.xml
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.pdb
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.xml
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmcustomer.resources
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmproduct.resources
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmorder.resources
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmmenu.resources
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmpriceinfo.resources
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmhelp.resources
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.Resources.resources
+J:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.vbproj.GenerateResource.Cache
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.exe
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.xml
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.pdb
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.xml
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmcustomer.resources
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmproduct.resources
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmorder.resources
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmmenu.resources
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmpriceinfo.resources
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmhelp.resources
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.Resources.resources
+F:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.vbproj.GenerateResource.Cache
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.exe
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.xml
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.pdb
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.xml
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.vbprojResolveAssemblyReference.cache
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmcustomer.resources
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmproduct.resources
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmorder.resources
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmmenu.resources
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmpriceinfo.resources
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frmhelp.resources
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.Resources.resources
+N:\Hnd computing\Programming\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.vbproj.GenerateResource.Cache
